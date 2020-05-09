@@ -1,0 +1,6 @@
+S.N.,Book Name,Author,Quantity,Rate(Rs)
+1,The Shining,Stephen King,14,50
+2,Looking For Alaska,John Green,21,55
+3,Slaughter House Five,Kurt Vonnegut,18,35
+4,The Outsider,Albert Camus,19,45
+5,Salem's Lot,Stephen King,21,50
