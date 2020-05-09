@@ -1,0 +1,3 @@
+13,The Great Gatsby,F.Scott Fitzerald,Hard Cover,Drama,Penguin,770
+14,The Stranger,Albert Camus,Paperback,Drama,Penguin,660
+15,A Game of Thrones,George R.R. Martin,Hard Cover,Fantasy,Vintage,990
