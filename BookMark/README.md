@@ -1,0 +1,1 @@
+For this coursework, my college made us develop a basic information system using Apache NetBeans and Java. We had to develop the UI by ourselves using Swing. We were also required to implement the alogrithms for selection sort and binary search. We were not required to use a database to store information for the program so we had to store everything in memory. 
